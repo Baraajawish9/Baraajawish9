@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Baraa! <br/><a href="https://github.com/Baraajawish9">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Python</b>
+  - [PDF Compressor](https://github.com/Baraajawish9/PythonPDFCompressor)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[X]: https://x.com/bajaawish
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Baraajawish9/Baraajawish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
