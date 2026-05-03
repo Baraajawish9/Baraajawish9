@@ -16,7 +16,6 @@
 | [Srtapplier](https://github.com/Baraajawish9/Srtapplier) | Windows-friendly desktop app for burning subtitle files into videos with FFmpeg. | Python, Tkinter, FFmpeg |
 | [Cyberindicatorcommandcenter](https://github.com/Baraajawish9/Cyberindicatorcommandcenter) | Django cyber threat intelligence dashboard using VirusTotal, AbuseIPDB, and AlienVault OTX enrichment. | Python, Django |
 | [PythonPDFCompressor](https://github.com/Baraajawish9/PythonPDFCompressor) | Python script for compressing PDF files with multiple quality options. | Python |
-| [Baraajawish9](https://github.com/Baraajawish9/Baraajawish9) | GitHub profile README repository that powers this profile page. | Markdown |
 
 ## Focus Areas
 
